@@ -1,24 +1,13 @@
-<h1 align="center">Hi 👋, I'm Francisco Letelier</h1>
-<h3 align="center">A passionate for Finances and Data Science</h3>
+**¿Qué es la teoría central del límite?**
+* La teoría central del límite es un teorema que establece que la distribución de la media de una muestra se aproxima a una distribución normal a medida que el tamaño de la muestra aumenta.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoletelier&label=Profile%20views&color=0e75b6&style=flat" alt="franciscoletelier" /> </p>
+Entonce:
+* Sea $𝑋1$, ... , $𝑋𝑛$ una ***m.a.s.*** de una ***v.a.*** $𝑋$ cualquiera de esperanza $𝜇𝑋$ y desviación típica $𝜎𝑋$. Cuando n tiene a infinito.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscoletelier" alt="franciscoletelier" /></a> </p>
+$$\lim_{{n \to \infty}} \frac{1}{\sqrt{2\pi n}} e^{-\frac{x^2}{2n}}$$
 
-- 🔭 I’m currently working on **Costing Data**
+1. Las observaciones en la muestra deben ser independientes entre sí.
+2. Las observaciones deben provenir de la misma distribución poblacional.
+3. La distribución poblacional debe tener una media finita y una varianza finita (o desviación estándar finita).
+4. El tamaño de la muestra debe ser lo suficientemente grande. Aunque no hay un número específico, generalmente se considera que un tamaño de muestra mayor o igual a 30 es suficiente para que el teorema central del límite sea aplicable.
 
-- 🌱 I’m currently learning **GIS**
-
-- 💬 Ask me about **Finance, Account, Python**
-
-- 📫 How to reach me **fletelierc@uft.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/francisco-letelier-castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-letelier-castro" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoletelier&show_icons=true&locale=en" alt="franciscoletelier" /></p>
