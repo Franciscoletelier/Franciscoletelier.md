@@ -11,7 +11,7 @@ $$\lim_{{n \to \infty}} \frac{1}{\sqrt{2\pi n}} e^{-\frac{x^2}{2n}}$$
 3. La distribución poblacional debe tener una media finita y una varianza finita (o desviación estándar finita).
 4. El tamaño de la muestra debe ser lo suficientemente grande. Aunque no hay un número específico, generalmente se considera que un tamaño de muestra mayor o igual a 30 es suficiente para que el teorema central del límite sea aplicable.
 
-## Prueba $Chi$^2^
+## Prueba $Chi^2$
 
 * Es una de las pruebas más conocidas y utilizadas para analizar variables nominales o cualitativas. Es decir, para determinar la existencia o no de independencia entre 2 variables.
 * Al igual que la t Student, se trabaja con grados de libertad. Mientras más grados de libertad, la curva tiene a parecerse a una normal
